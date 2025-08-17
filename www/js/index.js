@@ -8,7 +8,7 @@ fetch("js/backend.json")
 
     // Simula carregamento Online
     setTimeout(() => {
-      // Esvazia área de produtos
+      // Esvazia Área de produtos
       $("#produtos").empty();
 
       data.forEach((produto) => {
@@ -45,8 +45,7 @@ fetch("js/backend.json")
   })
   .catch((error) => console.error("erro ao fazer fetch dos dados: " + error));
 
-//Ver quantos itens tem no carrinho
-
+//Verificar quantos itens tem no carrinho
 setTimeout(() => {
   var carrinho = JSON.parse(localStorage.getItem("carrinho")) || [];
 
