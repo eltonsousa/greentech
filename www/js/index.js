@@ -41,7 +41,7 @@ fetch("js/backend.json")
         localStorage.setItem("detalhe", id);
         app.views.main.router.navigate("/detalhes/");
       });
-    }, 1500);
+    }, 500);
   })
   .catch((error) => console.error("erro ao fazer fetch dos dados: " + error));
 
