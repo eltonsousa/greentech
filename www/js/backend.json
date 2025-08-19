@@ -49,7 +49,7 @@
         "id": 2,
         "imagem": "img/iphone.png",
         "nome": "Iphone 15 Pro Max",
-        "principal_caracteristica": "256Gb E-Sim 5G Tela 6,7 Titânio",
+        "principal_caracteristica": "256Gb E-Sim 5G Tela 6,7",
         "rating": 4.7,
         "likes": "94%",
         "reviews": 15,
@@ -194,5 +194,280 @@
         ],
         "preco": 8999.99,
         "preco_promocional": 8699.99
+    },
+    {
+        "id": 5,
+        "imagem": "img/notebook.png",
+        "nome": "Notebook Dell Inspiron 15",
+        "principal_caracteristica": "Intel i7",
+        "rating": 4.8,
+        "likes": "94%",
+        "reviews": 132,
+        "descricao": "Notebook potente para trabalho e estudos, com design moderno e alto desempenho.",
+        "detalhes": [
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7 11ª geração"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16GB DDR4 expansível até 32GB"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD 512GB NVMe"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "15.6'' Full HD Antirreflexo"
+            },
+            {
+                "caracteristica": "Placa Gráfica",
+                "detalhes": "NVIDIA GeForce MX450 2GB"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Windows 11 Home"
+            }
+        ],
+        "preco": 4899.99,
+        "preco_promocional": 4599.99
+    },
+    {
+        "id": 6,
+        "imagem": "img/mouse.png",
+        "nome": "Mouse Gamer Logitech G502",
+        "principal_caracteristica": "RGB",
+        "rating": 4.7,
+        "likes": "92%",
+        "reviews": 78,
+        "descricao": "Mouse gamer de alta performance, ideal para precisão e conforto em longas sessões de jogo.",
+        "detalhes": [
+            {
+                "caracteristica": "DPI",
+                "detalhes": "200 a 25.600 ajustável"
+            },
+            {
+                "caracteristica": "Botões",
+                "detalhes": "11 botões programáveis"
+            },
+            {
+                "caracteristica": "Iluminação",
+                "detalhes": "RGB LIGHTSYNC totalmente customizável"
+            },
+            {
+                "caracteristica": "Peso",
+                "detalhes": "Ajustável com 5 pesos de 3,6g"
+            },
+            {
+                "caracteristica": "Conexão",
+                "detalhes": "USB com fio"
+            }
+        ],
+        "preco": 399.99,
+        "preco_promocional": 349.99
+    },
+    {
+        "id": 7,
+        "imagem": "img/teclado.png",
+        "nome": "Teclado Mecânico Redragon Kumara",
+        "principal_caracteristica": "Switch Blue",
+        "rating": 4.6,
+        "likes": "90%",
+        "reviews": 210,
+        "descricao": "Teclado mecânico compacto, resistente e com iluminação RGB para máxima imersão.",
+        "detalhes": [
+            {
+                "caracteristica": "Switches",
+                "detalhes": "Mecânicos Outemu Blue"
+            },
+            {
+                "caracteristica": "Construção",
+                "detalhes": "Estrutura em aço reforçado"
+            },
+            {
+                "caracteristica": "Iluminação",
+                "detalhes": "RGB com 9 modos de iluminação"
+            },
+            {
+                "caracteristica": "Layout",
+                "detalhes": "ABNT2 com tecla Ç"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Windows, MacOS e Linux"
+            }
+        ],
+        "preco": 299.99,
+        "preco_promocional": 259.99
+    },
+    {
+        "id": 8,
+        "imagem": "img/monitor.png",
+        "nome": "Monitor Gamer Samsung Odyssey",
+        "principal_caracteristica": "Curvo 27''",
+        "rating": 4.9,
+        "likes": "97%",
+        "reviews": 95,
+        "descricao": "Monitor gamer curvo de alto desempenho, ideal para gráficos fluidos e imersivos.",
+        "detalhes": [
+            {
+                "caracteristica": "Tamanho da Tela",
+                "detalhes": "27'' Curva 1000R"
+            },
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "Full HD (1920x1080)"
+            },
+            {
+                "caracteristica": "Taxa de Atualização",
+                "detalhes": "144Hz"
+            },
+            {
+                "caracteristica": "Tempo de Resposta",
+                "detalhes": "1ms"
+            },
+            {
+                "caracteristica": "Tecnologia",
+                "detalhes": "AMD FreeSync Premium"
+            }
+        ],
+        "preco": 1999.99,
+        "preco_promocional": 1799.99
+    },
+    {
+        "id": 9,
+        "imagem": "img/hdexterno.png",
+        "nome": "HD Externo Seagate 2TB",
+        "principal_caracteristica": "USB 3.0",
+        "rating": 4.5,
+        "likes": "88%",
+        "reviews": 310,
+        "descricao": "Armazenamento portátil confiável, leve e prático para levar seus arquivos para qualquer lugar.",
+        "detalhes": [
+            {
+                "caracteristica": "Capacidade",
+                "detalhes": "2TB"
+            },
+            {
+                "caracteristica": "Velocidade",
+                "detalhes": "Até 120 MB/s leitura"
+            },
+            {
+                "caracteristica": "Interface",
+                "detalhes": "USB 3.0 retrocompatível com 2.0"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Windows, MacOS e consoles"
+            },
+            {
+                "caracteristica": "Portabilidade",
+                "detalhes": "Compacto e leve, sem necessidade de fonte externa"
+            }
+        ],
+        "preco": 599.99,
+        "preco_promocional": 499.99
+    },
+    {
+        "id": 10,
+        "imagem": "img/placamae.png",
+        "nome": "Placa-Mãe ASUS TUF Gaming B550M",
+        "principal_caracteristica": "Chipset B550",
+        "rating": 4.7,
+        "likes": "91%",
+        "reviews": 150,
+        "descricao": "Placa-mãe robusta com suporte para processadores AMD Ryzen e recursos para gamers.",
+        "detalhes": [
+            { "caracteristica": "Soquete", "detalhes": "AM4 (Ryzen 3000/5000)" },
+            { "caracteristica": "Memória RAM", "detalhes": "Suporte até 128GB DDR4 4600MHz" },
+            { "caracteristica": "Expansão", "detalhes": "PCIe 4.0 para placas de vídeo" },
+            { "caracteristica": "Armazenamento", "detalhes": "2x M.2 NVMe + 4x SATA" },
+            { "caracteristica": "Conectividade", "detalhes": "USB 3.2, HDMI, DisplayPort" }
+        ],
+        "preco": 1249.99,
+        "preco_promocional": 1099.99
+    },
+    {
+        "id": 11,
+        "imagem": "img/processador.png",
+        "nome": "Processador AMD Ryzen 7 5800X",
+        "principal_caracteristica": "8 Núcleos",
+        "rating": 4.9,
+        "likes": "96%",
+        "reviews": 220,
+        "descricao": "Processador de alto desempenho para jogos e multitarefas exigentes.",
+        "detalhes": [
+            { "caracteristica": "Núcleos/Threads", "detalhes": "8 núcleos / 16 threads" },
+            { "caracteristica": "Frequência Base", "detalhes": "3.8GHz (até 4.7GHz Boost)" },
+            { "caracteristica": "Cache", "detalhes": "36MB total" },
+            { "caracteristica": "Litografia", "detalhes": "7nm" },
+            { "caracteristica": "Compatibilidade", "detalhes": "Soquete AM4" }
+        ],
+        "preco": 1999.99,
+        "preco_promocional": 1799.99
+    },
+    {
+        "id": 12,
+        "imagem": "img/placadevideo.png",
+        "nome": "Placa de Vídeo NVIDIA RTX 3060 Ti",
+        "principal_caracteristica": "8GB GDDR6",
+        "rating": 4.8,
+        "likes": "95%",
+        "reviews": 180,
+        "descricao": "Placa de vídeo poderosa para jogos em alta resolução e criação de conteúdo.",
+        "detalhes": [
+            { "caracteristica": "Memória", "detalhes": "8GB GDDR6" },
+            { "caracteristica": "Clock", "detalhes": "Boost até 1665 MHz" },
+            { "caracteristica": "Ray Tracing", "detalhes": "Suporte completo a Ray Tracing e DLSS" },
+            { "caracteristica": "Conexões", "detalhes": "HDMI 2.1, DisplayPort 1.4a" },
+            { "caracteristica": "Fonte Recomendada", "detalhes": "650W" }
+        ],
+        "preco": 3699.99,
+        "preco_promocional": 3399.99
+    },
+    {
+        "id": 13,
+        "imagem": "img/ram.png",
+        "nome": "Memória RAM Corsair Vengeance 16GB",
+        "principal_caracteristica": "DDR4 3200MHz",
+        "rating": 4.6,
+        "likes": "89%",
+        "reviews": 260,
+        "descricao": "Módulo de memória confiável e de alta velocidade para gamers e profissionais.",
+        "detalhes": [
+            { "caracteristica": "Capacidade", "detalhes": "16GB (1x16)" },
+            { "caracteristica": "Velocidade", "detalhes": "3200MHz" },
+            { "caracteristica": "Latência", "detalhes": "CL16" },
+            { "caracteristica": "Tensão", "detalhes": "1.35V" },
+            { "caracteristica": "Compatibilidade", "detalhes": "Placas-mãe DDR4" }
+        ],
+        "preco": 449.99,
+        "preco_promocional": 399.99
+    },
+    {
+        "id": 14,
+        "imagem": "img/ssd.png",
+        "nome": "SSD NVMe Kingston 1TB",
+        "principal_caracteristica": "PCIe 3.0",
+        "rating": 4.7,
+        "likes": "93%",
+        "reviews": 300,
+        "descricao": "SSD de alto desempenho, ideal para sistemas rápidos e carregamento instantâneo de jogos.",
+        "detalhes": [
+            { "caracteristica": "Capacidade", "detalhes": "1TB" },
+            { "caracteristica": "Velocidade Leitura", "detalhes": "Até 3500 MB/s" },
+            { "caracteristica": "Velocidade Gravação", "detalhes": "Até 3000 MB/s" },
+            { "caracteristica": "Interface", "detalhes": "PCIe Gen3 x4 NVMe" },
+            { "caracteristica": "Formato", "detalhes": "M.2 2280" }
+        ],
+        "preco": 799.99,
+        "preco_promocional": 699.99
     }
 ]
+
+    
+
+
+
+    
