@@ -202,6 +202,7 @@ form {
     margin-right: 7px;
     margin-left: 7px;
     margin-bottom: 10px;
+    
 }
 
 .img-container {
@@ -236,10 +237,12 @@ form {
 
 .bold {
     font-weight: 800;
+    
 }
 
 .price {
     font-size: 20px;
+    
 }
 
 .bg-gelo {
@@ -258,7 +261,7 @@ form {
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     .nome-prod {
     max-width: 100px;
     white-space: nowrap;
@@ -267,10 +270,16 @@ form {
     }
 }
 
-@media (max-width:378px) {
-    .item-card {
-        flex: 100%;
+@media (min-width:451px) and (max-width:600px) {
+    .nome-prod {
+    max-width: 140px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     }
+}
+
+@media (min-width:601px) and (max-width:800px) {
     .nome-prod {
     max-width: none;
     white-space: none;
@@ -278,7 +287,6 @@ form {
     text-overflow: none;
     }
 }
-
 
 
 

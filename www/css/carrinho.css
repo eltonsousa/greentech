@@ -82,7 +82,8 @@
     justify-content: space-between;
 }
 
-.name-prod {
+/* name-prod*/
+/*.name-prod {
     font-weight: 800;
     font-size: 20px;
     margin-left: 15px;
@@ -90,7 +91,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-}
+}*/
 
 .delete-item {
     font-size: 18px;
@@ -177,3 +178,59 @@
 .bd-bottom {
     border-bottom: 1px solid var(--gelo);
 }
+
+@media (max-width:450px) {
+    .name-prod {
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 15px;
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:451px) and (max-width:600px){
+  
+    .name-prod {
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 15px;
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+
+}
+
+@media (min-width:601px) and (max-width:800px){
+  
+    .name-prod {
+    font-weight: 800;
+    font-size: 18px;
+    margin-left: 15px;
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:801px) and (max-width:1400px){
+  
+    .name-prod {
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 15px;
+    max-width: none;
+    white-space: none;
+    overflow: none;
+    text-overflow: none;
+    }
+}
+
+
+
+

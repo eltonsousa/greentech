@@ -70,7 +70,6 @@
 .line b {
     font-size: 20px;
     color: var(--preto);
-    
 }
 
 .promo-btn {
@@ -152,4 +151,25 @@ th {
     font-size: 18px;
     font-weight: 800;
     cursor: pointer;
+}
+
+@media (max-width:400px) {
+    .line b {
+    max-width: 200px;
+    font-size: 18px;
+    /*white-space: nowrap;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+}
+
+@media (max-width:378px) {
+  
+    .line b {
+    border: 1px solid rebeccapurple;
+    max-width: none;
+    white-space: none;
+    overflow: none;
+    text-overflow: none;
+    }
 }
