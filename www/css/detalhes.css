@@ -67,10 +67,11 @@
     flex-flow: row wrap;
 }
 
+/*.Line b
 .line b {
     font-size: 20px;
     color: var(--preto);
-}
+}*/
 
 .promo-btn {
     width: 30%;
@@ -153,21 +154,48 @@ th {
     cursor: pointer;
 }
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     .line b {
     max-width: 200px;
-    font-size: 18px;
+    font-size: 16px;
+    color: var(--preto);
     /*white-space: nowrap;*/
     overflow: hidden;
     text-overflow: ellipsis;
     }
 }
 
-@media (max-width:378px) {
+@media (min-width:451px) and (max-width:600px) {
   
     .line b {
-    border: 1px solid rebeccapurple;
-    max-width: none;
+    max-width: 230px;
+    font-size: 18px;
+    color: var(--preto);
+    /*white-space: nowrap;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:601px) and (max-width:800px) {
+  
+    .line b {
+    max-width: 330px;
+    font-size: 18px;
+    color: var(--preto);
+    /*white-space: nowrap;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:801px) and (max-width:1400px) {
+  
+    .line b {
+    /*white-space: nowrap;*/
+    font-size: 20px;
+    color: var(--preto);
+    max-width: 440px;
     white-space: none;
     overflow: none;
     text-overflow: none;
