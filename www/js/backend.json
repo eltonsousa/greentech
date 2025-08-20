@@ -463,8 +463,193 @@
         ],
         "preco": 799.99,
         "preco_promocional": 699.99
+    },
+    {
+        "id": 15,
+        "imagem": "img/jogo_cama.png",
+        "nome": "Jogo de Cama Casal",
+        "principal_caracteristica": "Algodão 100% 150 fios",
+        "rating": 4.7,
+        "likes": "93%",
+        "reviews": 41,
+        "descricao": "Transforme suas noites de sono com o Jogo de Cama Casal em algodão 150 fios. Conforto, frescor e maciez que garantem uma experiência única de descanso.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Algodão 100% de alta qualidade"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "Ideal para colchões casal até 1,40m"
+            },
+            {
+                "caracteristica": "Peças inclusas",
+                "detalhes": "1 lençol de cima, 1 lençol com elástico, 2 fronhas"
+            },
+            {
+                "caracteristica": "Estilo",
+                "detalhes": "Estampas modernas e delicadas"
+            },
+            {
+                "caracteristica": "Manutenção",
+                "detalhes": "Lavável em máquina, não desbota"
+            }
+        ],
+        "preco": 199.90,
+        "preco_promocional": 179.90
+    },
+    {
+        "id": 16,
+        "imagem": "img/edredom.png",
+        "nome": "Edredom Queen Dupla Face",
+        "principal_caracteristica": "Toque macio, aconchegante",
+        "rating": 4.8,
+        "likes": "95%",
+        "reviews": 67,
+        "descricao": "Aqueça suas noites com estilo. O Edredom Queen Dupla Face oferece conforto, elegância e praticidade em uma única peça.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Microfibra macia de alta qualidade"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "2,40m x 2,60m"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Dupla face com cores contrastantes"
+            },
+            {
+                "caracteristica": "Durabilidade",
+                "detalhes": "Costuras reforçadas e enchimento siliconado"
+            }
+        ],
+        "preco": 279.90,
+        "preco_promocional": 239.90
+    },
+    {
+        "id": 17,
+        "imagem": "img/toalha_banho.png",
+        "nome": "Toalha de Banho Premium",
+        "principal_caracteristica": "Alta absorção e maciez",
+        "rating": 4.9,
+        "likes": "97%",
+        "reviews": 112,
+        "descricao": "Sinta o prazer de se envolver em uma toalha macia e superabsorvente. Conforto e qualidade em cada detalhe.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "100% algodão felpudo"
+            },
+            {
+                "caracteristica": "Dimensões",
+                "detalhes": "70cm x 140cm"
+            },
+            {
+                "caracteristica": "Gramatura",
+                "detalhes": "500 g/m²"
+            },
+            {
+                "caracteristica": "Cores",
+                "detalhes": "Disponível em diversas opções"
+            },
+            {
+                "caracteristica": "Resistência",
+                "detalhes": "Alta durabilidade mesmo após diversas lavagens"
+            }
+        ],
+        "preco": 59.90,
+        "preco_promocional": 49.90
+    },
+    {
+        "id": 18,
+        "imagem": "img/travesseiro.png",
+        "nome": "Travesseiro Ortopédico Viscoelástico",
+        "principal_caracteristica": "Espuma de memória",
+        "rating": 4.9,
+        "likes": "98%",
+        "reviews": 86,
+        "descricao": "Durma melhor com o Travesseiro Ortopédico. Apoio perfeito para cabeça e pescoço, reduzindo dores e proporcionando uma noite de sono revigorante.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Espuma viscoelástica de alta densidade"
+            },
+            {
+                "caracteristica": "Formato",
+                "detalhes": "Anatômico, ajusta-se à curvatura natural do pescoço"
+            },
+            {
+                "caracteristica": "Capa",
+                "detalhes": "Removível e lavável em tecido antialérgico"
+            },
+            {
+                "caracteristica": "Benefícios",
+                "detalhes": "Ajuda a reduzir ronco e tensão muscular"
+            }
+        ],
+        "preco": 149.90,
+        "preco_promocional": 119.90
+    },
+    {
+        "id": 19,
+        "imagem": "img/toalha_mesa.png",
+        "nome": "Toalha de Mesa Retangular",
+        "principal_caracteristica": "Estampa floral impermeável",
+        "rating": 4.6,
+        "likes": "92%",
+        "reviews": 53,
+        "descricao": "Leve charme e proteção à sua mesa com a Toalha de Mesa Impermeável. Praticidade e elegância para todas as ocasiões.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Tecido poliéster impermeável"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "1,60m x 2,20m"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Estampa floral delicada"
+            },
+            {
+                "caracteristica": "Manutenção",
+                "detalhes": "Fácil de limpar, não amassa com facilidade"
+            }
+        ],
+        "preco": 129.90,
+        "preco_promocional": 99.90
+    },
+    {
+        "id": 20,
+        "imagem": "img/colcha.png",
+        "nome": "Colcha Solteiro Microfibra",
+        "principal_caracteristica": "Acompanha porta-travesseiro",
+        "rating": 4.5,
+        "likes": "90%",
+        "reviews": 39,
+        "descricao": "Colcha leve e prática em microfibra, perfeita para noites frescas e para compor a decoração do quarto.",
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Microfibra 100% poliéster"
+            },
+            {
+                "caracteristica": "Peças inclusas",
+                "detalhes": "1 colcha e 1 porta-travesseiro"
+            },
+            {
+                "caracteristica": "Estilo",
+                "detalhes": "Disponível em várias estampas"
+            }
+        ],
+        "preco": 159.90,
+        "preco_promocional": 129.90
     }
 ]
+
 
     
 
