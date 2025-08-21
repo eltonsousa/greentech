@@ -1,5 +1,5 @@
 fetch(
-  "https://script.google.com/macros/s/AKfycbxzq9LYz895brhRDk8ATGoubr4g4px5Vxtm9ku1-4qy9yVqY70S6Ef1g36z-K5SRI2q/exec"
+  "https://raw.githubusercontent.com/eltonsousa/bd_produtos_teste/refs/heads/master/banco-de-dados.json"
 )
   .then((reponse) => reponse.json())
   .then((data) => {
@@ -43,7 +43,7 @@ fetch(
         localStorage.setItem("detalhe", id);
         app.views.main.router.navigate("/detalhes/");
       });
-    }, 100);
+    }, 600);
   })
   .catch((error) => console.error("erro ao fazer fetch dos dados: " + error));
 
