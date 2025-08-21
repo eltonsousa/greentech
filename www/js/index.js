@@ -1,4 +1,6 @@
-fetch("js/backend.json")
+fetch(
+  "https://script.google.com/macros/s/AKfycbxfihlLRpb4qq6ICFN1mNbhklNAIBKs6J19Bkz1Hp4J5L4Ip8_pQWUL4jx9ut7sDiSNEQ/exec"
+)
   .then((reponse) => reponse.json())
   .then((data) => {
     //Salvar os dados vindo do back-end localmente
@@ -41,7 +43,7 @@ fetch("js/backend.json")
         localStorage.setItem("detalhe", id);
         app.views.main.router.navigate("/detalhes/");
       });
-    }, 500);
+    }, 100);
   })
   .catch((error) => console.error("erro ao fazer fetch dos dados: " + error));
 
