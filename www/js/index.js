@@ -1,5 +1,5 @@
 fetch(
-  "https://script.google.com/macros/s/AKfycbxfihlLRpb4qq6ICFN1mNbhklNAIBKs6J19Bkz1Hp4J5L4Ip8_pQWUL4jx9ut7sDiSNEQ/exec"
+  "https://script.google.com/macros/s/AKfycbxzq9LYz895brhRDk8ATGoubr4g4px5Vxtm9ku1-4qy9yVqY70S6Ef1g36z-K5SRI2q/exec"
 )
   .then((reponse) => reponse.json())
   .then((data) => {
